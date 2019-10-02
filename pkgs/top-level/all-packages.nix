@@ -23805,6 +23805,8 @@ in
 
   cups-brother-hl3140cw = pkgsi686Linux.callPackage ../misc/cups/drivers/hl3140cw { };
 
+  cups-brother-hl3150cdn = pkgsi686Linux.callPackage ../misc/cups/drivers/hl3150cdn { };
+
   cups-googlecloudprint = callPackage ../misc/cups/drivers/googlecloudprint { };
 
   # this driver ships with pre-compiled 32-bit binary libraries
